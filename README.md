@@ -1,2 +1,2 @@
 # Dunn.C_FinalProject
-Final Project - Conor Dunn. Comparing levels of nitrogen and oxygen in the surface ocean and it's effect on the early reproduction of phytoplankton.
+Final Project - Conor Dunn. In my final project I took data sets from profiling floats and moorings off the coast of Oregon through a 3 month period in 2014. My goal was to see the relationship between Nitrate and Oxygen during these particular months and it's effect on phytoplankton reproduction. I was curious if nitrogen levels would still be in excess amounts or if the sunlight and dissolved oxygen would off-put the balance slightly allowing for an increased growth in phytoplankton biomass. 
